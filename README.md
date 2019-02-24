@@ -100,3 +100,7 @@ Analysis and thinking about trigonometry functions and how they work.
 ## Tangent
 
 ## Cotangent
+
+
+The formulas picture created using [Tex](https://tug.org/) (xelatex) on the Unix System.
+
