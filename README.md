@@ -5,6 +5,10 @@ Analysis and thinking about trigonometry functions and how they work.
 
 ![Sum Sine Expressions](Sine-Expression-Sum.png)
 
+```
+$\sum_{current=0}^{maximum} {-1 ^ i \times \frac{radian ^ \left(2\times c+1\right)}{(2 \times current+1) !}}$
+```
+
 ### Maximum
 
 #### maximum = 1
@@ -103,4 +107,5 @@ Analysis and thinking about trigonometry functions and how they work.
 
 
 The formulas picture created using [Tex](https://tug.org/) (xelatex) on the Unix System.
+
 
