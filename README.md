@@ -3,7 +3,7 @@ Analysis and thinking about trigonometry functions and how they work.
 
 ## Sine
 
-![Sum Sine Expressions](Sine-Expression-Sum.png)
+![Sine Taylor Series](SineTaylorSeries.png)
 
 ```
 $\sum_{current=0}^{maximum} {-1 ^ i \times \frac{radian ^ \left(2\times c+1\right)}{(2 \times current+1) !}}$
