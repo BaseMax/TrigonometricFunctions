@@ -101,14 +101,14 @@ $\sum_{current=0}^{maximum} {-1 ^ i \times \frac{radian ^ \left(2\times c+1\righ
 
 ## Cosine
 
+![Cosine Taylor Series](CosineTaylorSeries.png)
+
+
 ## Tangent
 
 ## Cotangent
 
-
 -----------
 
-
 The formulas picture created using [Tex](https://tug.org/) (xelatex) on the Unix System.
-
 
