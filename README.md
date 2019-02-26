@@ -155,7 +155,28 @@ Analysis and thinking about trigonometry functions and how they work.
 
 ## Cotangent
 
+```
+\begin{equation}
+  cotangent \left(radian\right) = 
+  \sum_{current=0}^{maximum}{
+    -1 ^ i  \times
+    \frac{
+      \frac{
+        radian ^ {\left( 2\times current +1 \right)}
+      }{
+        \left( 2 \times current + 1 \right) !
+      }
+    }{
+      \frac{
+        radian ^ {\left( 2\times current \right)}
+      }{
+        \left( 2 \times current \right) !
+      }
+    }
+  }
+\end{equation}
+```
+
 -----------
 
 The formulas picture created using [Tex](https://tug.org/) (xelatex) on the Unix System.
-
