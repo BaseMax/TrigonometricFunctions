@@ -129,6 +129,8 @@ Analysis and thinking about trigonometry functions and how they work.
 
 ## Tangent
 
+![Tangent Taylor Series](TangentTaylorSeries.png)
+
 ```
 \begin{equation}
   tangent\left(radian\right) = 
