@@ -104,7 +104,17 @@ $sin(radian) = \sum_{current=0}^{maximum}{-1 ^ i \times \frac{radian ^ \left(2\t
 ![Cosine Taylor Series](CosineTaylorSeries.png)
 
 ```
-$cos(radian) = \sum_{current=0}^{maximum}{-1 ^ i \times \frac{radian ^ \left(2\times c\right)}{(2 \times current) !}}$
+\begin{equation}
+  cosine \left(radian\right) = 
+  \sum_{current=0}^{maximum}{
+    -1 ^ i  \times
+    \frac{
+      radian ^ {\left( 2\times current \right)}
+    }{
+      \left( 2 \times current \right) !
+    }
+  }
+\end{equation}
 ```
 
 ## Tangent
