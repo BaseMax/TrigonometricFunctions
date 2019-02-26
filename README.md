@@ -155,6 +155,8 @@ Analysis and thinking about trigonometry functions and how they work.
 
 ## Cotangent
 
+![Cotangent Taylor Series](CotangentTaylorSeries.png)
+
 ```
 \begin{equation}
   cotangent \left(radian\right) = 
