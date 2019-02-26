@@ -6,7 +6,17 @@ Analysis and thinking about trigonometry functions and how they work.
 ![Sine Taylor Series](SineTaylorSeries.png)
 
 ```
-$sin(radian) = \sum_{current=0}^{maximum}{-1 ^ i \times \frac{radian ^ \left(2\times c+1\right)}{(2 \times current+1) !}}$
+\begin{equation}
+  sine \left(radian\right) = 
+  \sum_{current=0}^{maximum}{
+    -1 ^ i  \times
+    \frac{
+      radian ^ {\left( 2\times current +1 \right)}
+    }{
+      \left( 2 \times current + 1 \right) !
+    }
+  }
+\end{equation}
 ```
 
 ### Maximum
