@@ -110,10 +110,7 @@ $cos(radian) = \sum_{current=0}^{maximum}{-1 ^ i \times \frac{radian ^ \left(2\t
 ## Tangent
 
 ```
-$tangent(radian) = \sum_{current=0}^{maximum} \frac{   \frac{radian ^ \left(2\times c\right)}{(2 \times current) !} }{
-{-1 ^ i \times \frac{radian ^ \left(2\times c+1\right)}{(2 \times current+1) !}}
-}
-$
+$tangent(radian) = \frac{  \sum_{current=0}^{maximum}{-1 ^ i \times \frac{radian ^ \left(2\times c\right)}{(2 \times current) !}} }{\sum_{current=0}^{maximum}{-1 ^ i \times \frac{radian ^ \left(2\times c+1\right)}{(2 \times current+1) !}}}$
 ```
 
 ## Cotangent
