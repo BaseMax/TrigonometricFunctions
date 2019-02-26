@@ -110,18 +110,25 @@ $cos(radian) = \sum_{current=0}^{maximum}{-1 ^ i \times \frac{radian ^ \left(2\t
 ## Tangent
 
 ```
-$tangent(radian) = 
-  \sum_{current=0}^{maximum}
-    -1 ^ i \times
+\begin{equation}
+  tangent\left(radian\right) = 
+  \sum_{current=0}^{maximum}{
+    -1 ^ i  \times
     \frac{
       \frac{
-        radian ^ \left(2\times c\right)
-       }
-       {
-        (2 \times current) !
-       }
+        radian ^ {\left( 2\times current \right)}
+      }{
+        \left( 2 \times current \right) !
+      }
+    }{
+      \frac{
+        radian ^ {\left( 2\times current +1 \right)}
+      }{
+        \left( 2 \times current + 1 \right) !
+      }
     }
-    {{\frac{radian ^ \left(2\times c+1\right)}{(2 \times current+1) !}}}$
+  }
+\end{equation}
 ```
 
 ## Cotangent
