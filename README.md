@@ -179,6 +179,45 @@ Analysis and thinking about trigonometry functions and how they work.
 \end{equation}
 ```
 
+# Relationships and Converters
+
+```
+\begin{equation}
+	cosine \left( - A \right) = 
+	cosine \left( A\right)
+\end{equation}
+```
+```
+\begin{equation}
+	sine \left( - A \right) = 
+	- sine \left( A\right)
+\end{equation}
+```
+```
+\begin{equation}
+	cotangent \left(A \right) = 
+	tangent \left( \frac{\pi}{2}  - A\right)
+\end{equation}
+```
+```
+\begin{equation}
+	secant \left(A \right) = 
+	cosecant \left( \frac{\pi}{2}  - A\right)
+\end{equation}
+```
+```
+\begin{equation}
+	cosecant \left(A \right) = 
+	secant \left( \frac{\pi}{2}  - A\right)
+\end{equation}
+```
+```
+\begin{equation}
+	tan \left(A \right) = 
+	cot \left( \frac{\pi}{2}  - A\right)
+\end{equation}
+```
+
 -----------
 
 The formulas picture created using [Tex](https://tug.org/) (xelatex) on the Unix System.
