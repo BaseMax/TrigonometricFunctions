@@ -218,7 +218,11 @@ The source of this image is Wikipedia.
 ```
 ```
 \begin{equation}
+	tan \left(A \right) = 
+	cot \left( \frac{\pi}{2}  - A\right)
+\end{equation}
 ```
+
 
 
 ## Check Result
@@ -251,12 +255,6 @@ The source of this image is Wikipedia.
 
 
 
-
-
-	tan \left(A \right) = 
-	cot \left( \frac{\pi}{2}  - A\right)
-\end{equation}
-```
 
 ### An example of conversion and analysis algorithms
 
