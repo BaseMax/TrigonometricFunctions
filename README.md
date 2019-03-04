@@ -2251,6 +2251,10 @@ sin(499) = sin(139) = 0.656059
 
 ![SineFunctionTable](SineFunctionTable-11.jpg)
 
+![SineFunctionTable](SineFunctionTable-12.jpg)
+
+![SineFunctionTable](SineFunctionTable-13.jpg)
+
 -----------
 
 The formulas picture created using [Tex](https://tug.org/) (xelatex) on the Unix System.
