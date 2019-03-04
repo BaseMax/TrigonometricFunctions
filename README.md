@@ -218,6 +218,41 @@ The source of this image is Wikipedia.
 ```
 ```
 \begin{equation}
+```
+
+
+## Check Result
+
+![SineFunctionTable](SineFunctionTable-01.jpg)
+
+![SineFunctionTable](SineFunctionTable-02.jpg)
+
+![SineFunctionTable](SineFunctionTable-03.jpg)
+
+![SineFunctionTable](SineFunctionTable-04.jpg)
+
+![SineFunctionTable](SineFunctionTable-05.jpg)
+
+![SineFunctionTable](SineFunctionTable-06.jpg)
+
+![SineFunctionTable](SineFunctionTable-07.jpg)
+
+![SineFunctionTable](SineFunctionTable-08.jpg)
+
+![SineFunctionTable](SineFunctionTable-09.jpg)
+
+![SineFunctionTable](SineFunctionTable-10.jpg)
+
+![SineFunctionTable](SineFunctionTable-11.jpg)
+
+![SineFunctionTable](SineFunctionTable-12.jpg)
+
+![SineFunctionTable](SineFunctionTable-13.jpg)
+
+
+
+
+
 	tan \left(A \right) = 
 	cot \left( \frac{\pi}{2}  - A\right)
 \end{equation}
@@ -2226,34 +2261,6 @@ sin(498) = sin(138) = 0.669131
 sin(499) = sin(139) = 0.656059
 ```
 
-
-## Check Result
-
-![SineFunctionTable](SineFunctionTable-01.jpg)
-
-![SineFunctionTable](SineFunctionTable-02.jpg)
-
-![SineFunctionTable](SineFunctionTable-03.jpg)
-
-![SineFunctionTable](SineFunctionTable-04.jpg)
-
-![SineFunctionTable](SineFunctionTable-05.jpg)
-
-![SineFunctionTable](SineFunctionTable-06.jpg)
-
-![SineFunctionTable](SineFunctionTable-07.jpg)
-
-![SineFunctionTable](SineFunctionTable-08.jpg)
-
-![SineFunctionTable](SineFunctionTable-09.jpg)
-
-![SineFunctionTable](SineFunctionTable-10.jpg)
-
-![SineFunctionTable](SineFunctionTable-11.jpg)
-
-![SineFunctionTable](SineFunctionTable-12.jpg)
-
-![SineFunctionTable](SineFunctionTable-13.jpg)
 
 -----------
 
